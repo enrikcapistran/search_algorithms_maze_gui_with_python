@@ -6,9 +6,6 @@ We used numpy library in order to apply mini-max to the opponent IA decisions fo
 
 # Algoritmos_de_busqueda_laberinto_gui_con_python
 
-## Inicio
-![Inicio](https://user-images.githubusercontent.com/10008363/137842970-7be133ba-3598-4e21-8156-5ea7d3326799.gif)
-
 ## Profundidad
 ![Profundidad](https://user-images.githubusercontent.com/10008363/137843512-24e4ed74-c295-4fc3-977c-ebb486f99973.gif)
 
